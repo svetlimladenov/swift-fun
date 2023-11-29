@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Closures.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/svetlinmladenov/Code/Swift/swift-fun/crash-course/AdventOfCodeDay3.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Functions.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/svetlinmladenov/Code/Swift/swift-fun/crash-course/AdventOfCodeDay2.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Strings.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Operators.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Variables.playground">
+   </FileRef>
+</Workspace>
