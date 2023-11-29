@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <FileRef
-      location = "group:AdventOfCodeDay1.playground">
-   </FileRef>
    <Group
       location = "container:AdventOfCode2020"
       name = "AdventOfCode2020">
+      <FileRef
+         location = "group:/Users/svetlinmladenov/Code/Swift/swift-fun/crash-course/AdventOfCode2020/AdventOfCodeDay1.playground">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/svetlinmladenov/Code/Swift/swift-fun/crash-course/AdventOfCode2020/AdventOfCodeDay2.playground">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/svetlinmladenov/Code/Swift/swift-fun/crash-course/AdventOfCode2020/AdventOfCodeDay3.playground">
+      </FileRef>
    </Group>
    <FileRef
       location = "group:Closures.playground">
    </FileRef>
    <FileRef
-      location = "group:/Users/svetlinmladenov/Code/Swift/swift-fun/crash-course/AdventOfCodeDay3.playground">
-   </FileRef>
-   <FileRef
       location = "group:Functions.playground">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/svetlinmladenov/Code/Swift/swift-fun/crash-course/AdventOfCodeDay2.playground">
    </FileRef>
    <FileRef
       location = "group:Strings.playground">
