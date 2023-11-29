@@ -5,13 +5,13 @@
       location = "container:AdventOfCode2020"
       name = "AdventOfCode2020">
       <FileRef
-         location = "group:/Users/svetlinmladenov/Code/Swift/swift-fun/crash-course/AdventOfCode2020/AdventOfCodeDay1.playground">
+         location = "group:/Users/svetlinmladenov/Code/Swift/swift-fun/crash-course/AdventOfCode2020/Day1.playground">
       </FileRef>
       <FileRef
-         location = "group:/Users/svetlinmladenov/Code/Swift/swift-fun/crash-course/AdventOfCode2020/AdventOfCodeDay2.playground">
+         location = "group:/Users/svetlinmladenov/Code/Swift/swift-fun/crash-course/AdventOfCode2020/Day2.playground">
       </FileRef>
       <FileRef
-         location = "group:/Users/svetlinmladenov/Code/Swift/swift-fun/crash-course/AdventOfCode2020/AdventOfCodeDay3.playground">
+         location = "group:/Users/svetlinmladenov/Code/Swift/swift-fun/crash-course/AdventOfCode2020/Day3.playground">
       </FileRef>
    </Group>
    <FileRef
