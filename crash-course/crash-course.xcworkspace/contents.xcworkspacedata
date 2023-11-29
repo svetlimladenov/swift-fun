@@ -4,6 +4,10 @@
    <FileRef
       location = "group:AdventOfCodeDay1.playground">
    </FileRef>
+   <Group
+      location = "container:AdventOfCode2020"
+      name = "AdventOfCode2020">
+   </Group>
    <FileRef
       location = "group:Closures.playground">
    </FileRef>
