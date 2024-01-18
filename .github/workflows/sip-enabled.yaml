@@ -9,7 +9,7 @@ jobs:
   ci:
     runs-on: flyci-macos-large-latest-m2
     steps:
-      - name: Check for unused packages
+      - name: Check SIP status
         run: |
           csrutil status
       - name: Check macOS version
