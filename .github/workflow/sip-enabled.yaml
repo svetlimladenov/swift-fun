@@ -1,0 +1,14 @@
+name: Check if SIP is enabled
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  ci:
+    runs-on: flyci-macos-large-latest-m2
+  steps:
+    - name: Check for unused packages
+      run: |
+        csrutil status
