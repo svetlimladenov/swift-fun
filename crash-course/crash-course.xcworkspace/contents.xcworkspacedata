@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <FileRef
+      location = "group:Structures.playground">
+   </FileRef>
    <Group
       location = "container:AdventOfCode2020"
       name = "AdventOfCode2020">
